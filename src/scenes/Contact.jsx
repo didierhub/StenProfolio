@@ -54,7 +54,7 @@ const Contact = () => {
           }}
           className="basis-1/2 flex justify-center"
         >
-          <img src="src/assets/contact-me.jpeg" alt="contact"  className="  rounded w-full max-w-[250px] md:max-w-[450px]"/>
+          <img src="public/assets/IMG_contact.jpeg" alt="contact"  className="  rounded w-full max-w-[250px] md:max-w-[450px]"/>
         </motion.div>
 
         <motion.div
