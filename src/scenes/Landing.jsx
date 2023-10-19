@@ -20,7 +20,7 @@ const Landing = ({ setSelectedPage }) => {
             <img
               alt="profile"
               className=" rounded-t-[400px] hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[250px] md:max-w-[450px]"
-              src="src/assets/profile-image.jpg"
+              src="src/assets/profile-image.png"
             />
           </div>
         ) : (
@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
+            babababb arcu, in aliquam fringilla cursus. Elit arcu elementum
             viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
           </p>
         </motion.div>
