@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            babababb arcu, in aliquam fringilla cursus. Elit arcu elementum
+            it is working bro arcu, in aliquam fringilla cursus. Elit arcu elementum
             viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
           </p>
         </motion.div>
